@@ -1,4 +1,4 @@
-var maxSnowflake = 275;
+var maxSnowflake = 150;
 var content = ["\uFE0F", "\u2764", "\uFE0F"];
 
 function snow() {
